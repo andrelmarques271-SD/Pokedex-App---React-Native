@@ -33,7 +33,7 @@ Aplicativo mobile de Pokédex desenvolvido com **React Native** e **Expo**, cons
 git clone https://github.com/andrelmarques271-SD/Pokedex-App---React-Native
 
 # Entre na pasta do projeto
-cd seu-repositorio
+cd Pokedex-App---React-Native
 
 # Instale as dependências
 npm install

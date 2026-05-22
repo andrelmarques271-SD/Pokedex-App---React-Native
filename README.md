@@ -77,4 +77,7 @@ Escaneie o QR Code com o **Expo Go** e o app abrirá no seu celular!
 
 ## 👨‍💻 Autor
 
-Feito com 💙 e muito `console.error()` durante o aprendizado!
+**André Marques**
+
+[![GitHub](https://img.shields.io/badge/GitHub-andrelmarques271--SD-black?logo=github)](https://github.com/andrelmarques271-SD)
+Feito com muito `console.error()` durante o aprendizado!

@@ -30,7 +30,7 @@ Aplicativo mobile de Pokédex desenvolvido com **React Native** e **Expo**, cons
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/andrelmarques271-SD/Pokedex-App---React-Native
 
 # Entre na pasta do projeto
 cd seu-repositorio
